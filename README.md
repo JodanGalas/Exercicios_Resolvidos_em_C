@@ -1,2 +1,2 @@
-# Exercicios_Basicos_em-_C
+# Exercicios_Resolvidos_em_C
 Questões básicas resolvidas em linguagem C.
