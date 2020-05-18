@@ -11,9 +11,9 @@ Triângulo Escaleno: os comprimentos dos 3 lados são diferentes.
 5. - [ ] Faça uma função para calcular o fatorial de um número fornecido pelo usuário. A função fatorial de um número natural n é o produto de todos os n primeiros números naturais. Fat(n)=n!=1.2.3.4...n. Vamos tomar Fat(0)=1. OBS: Resolver de forma recursiva.
 6. - [ ] Escreva uma função recursiva que receba, por parâmetro, dois valores X e Z e calcula e retorna XZ. (sem utilizar funções prontas).
 7. - [ ] Faça 3 funções:
-   1. Ler: - uma função que receba dois número inteiro positivo n;
-   2. Multiplicar: - que multiplique os números recebidos na função ler;
-   3. Imprimir: - que imprima o resultado da função multiplicar.
+* Ler: - uma função que receba dois número inteiro positivo n;
+* Multiplicar: - que multiplique os números recebidos na função ler;
+* Imprimir: - que imprima o resultado da função multiplicar.
 8.	- [ ] Escreva uma função que recebe um inteiro positivo n e devolve 1 se n é par e 0 se n é impar.
 
 
