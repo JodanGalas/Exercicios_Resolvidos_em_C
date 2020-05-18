@@ -7,7 +7,7 @@
 6. - [x] Dados três números, imprimi-los em ordem crescente.
 7. - [x] Calcular o fatorial de um número fornecido pelo usuário.
 8. - [x] Calcular a tabuada de um número fornecido pelo usuário multiplicado de 0 a 12. O resultado deverá ser  apresentado da seguinte maneira:  
-    **Número   x   0   =  Resultado1.**
+    **Número   x   0   =  Resultado1.**<\p>
     **Número   x   1   =  Resultado2.**
 9. - [x] Crie um programa por meio do qual o usuário irá digitar a operação desejada e dois valores, ao final deverá ser exibido o resultado da operação.
 10. - [x] Dada uma sequência de números inteiros não-nulos, começando por 1,imprimir seus quadrados.
