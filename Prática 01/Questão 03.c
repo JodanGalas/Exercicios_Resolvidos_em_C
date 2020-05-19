@@ -1,4 +1,3 @@
-//Dado um número positivo n, imprimir seu quadrado.
 #include <stdio.h>
 main(){
 	

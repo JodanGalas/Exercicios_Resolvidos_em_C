@@ -1,4 +1,3 @@
-//Faça um programa que solicite um número (inteiro/positivo) e imprima-o.
 #include <stdio.h>
 main(){
 	int a;

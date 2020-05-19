@@ -1,6 +1,3 @@
-//Dado um número inteiro positivo n verificar se é par ou ímpar. 
-//Apresente uma mensagem na tela informando o número e o resultado.
-//OBS:% utilizado para calcular o resto.
 #include <stdio.h>
 main(){
 	

@@ -1,4 +1,3 @@
-//Dada uma sequência de números inteiros não-nulos, começando por 1,imprimir seus quadrados.
 #include <stdio.h>
 main(){
 	

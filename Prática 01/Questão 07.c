@@ -1,4 +1,3 @@
-//Calcular o fatorial de um número fornecido pelo usuário.
 #include <stdio.h>
 main(){
 	

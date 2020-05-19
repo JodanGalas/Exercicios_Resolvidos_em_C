@@ -1,4 +1,3 @@
-//Faça um programa que solicite o ano em que uma pessoa nasceu e retorne sua idade.
 #include <stdio.h>
 main(){
 	int ano;

@@ -1,4 +1,3 @@
-//Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
 #include <stdio.h>
 main (){
 	int n, res;

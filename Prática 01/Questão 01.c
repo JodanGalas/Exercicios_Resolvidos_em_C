@@ -1,4 +1,3 @@
-//Dado dois números inteiros positivos a e b, calcular e imprimir a sua soma.
 #include <stdio.h>
 main(){
 	int a, b, soma;

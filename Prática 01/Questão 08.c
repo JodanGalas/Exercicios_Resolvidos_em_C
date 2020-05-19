@@ -1,4 +1,3 @@
-//Calcular a tabuada de um número fornecido pelo usuário multiplicado de 0 a 10.
 #include <stdio.h>
 main(){
 	int a, b, c;

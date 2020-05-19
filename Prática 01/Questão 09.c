@@ -1,7 +1,3 @@
-//Crie um programa por meio do qual o usuário irá digitar a operação desejada e dois valores, ao final deverá ser exibido o resultado da operação. 
-//Opções disponíveis: 1 - Divisão; 2 - resto da divisão; 3 - adição; 4 - multiplicação.
-//Obs: Utilizar:  do-while (para o menu) e o comando switch.
-
 #include <conio.h>
 #include <stdio.h>
 
@@ -10,11 +6,11 @@ main (){
  int b, c, d;
  
  do{
-   printf ("Escolha uma operaçao\n");
+   printf ("Escolha uma operaï¿½ao\n");
    printf ("(1)...divisao\n");
    printf ("(2)...resto de divisao\n");
-   printf ("(3)...adiçao\n");
-   printf ("(4)...multiplicaçao\n");
+   printf ("(3)...adiï¿½ao\n");
+   printf ("(4)...multiplicaï¿½ao\n");
    scanf("%c",&a);
  } while ((a !='1')&&(a !='2')&&(a !='3')&&(a !='4'));
  
