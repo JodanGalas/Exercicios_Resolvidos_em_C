@@ -16,3 +16,7 @@
 11. - [x] Dado um número inteiro positivo n, calcular a soma dos n primeiros números naturais.
 12. - [x] Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
 13. - [x] Dados um inteiro x e um inteiro não-negativo n, calcular x n.      
+
+# Parte B
+* Realizar uma pesquisa a respeito de funções recursivas em C e exemplificar o seu uso.
+Citar as Referências utilizadas.
