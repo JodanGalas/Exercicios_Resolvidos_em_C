@@ -7,9 +7,9 @@ int funcD (int n) {
 	int qtd = 0; //acumulador dos divisores
 	int i; //contador
 	
-	for(i = 1; i <= n; i++){ // percorrer os valores até o n digitado
-		if (n % i == 0){ //se o resto é zero significa que é um divisor
-			printf(" %d \n", i); //printa o valor que é um divisor
+	for(i = 1; i <= n; i++){ // percorrer os valores atÃ© o n digitado
+		if (n % i == 0){ //se o resto Ã© zero significa que Ã© um divisor
+			printf(" %d \n", i); //printa o valor que Ã© um divisor
 			qtd++; //incrementa no acumulador
 		}
 	}
