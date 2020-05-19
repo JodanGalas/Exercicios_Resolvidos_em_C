@@ -3,7 +3,7 @@
 #include<locale.h>
 
 int print(int x){
-	return printf("O resultado da multiplicação é: %d", x);
+	return printf("O resultado da multiplicaÃ§Ã£o Ã©: %d", x);
 }
 
 int multiplicar(int x, int y){
@@ -12,9 +12,9 @@ int multiplicar(int x, int y){
 
 int receba(int x){
 	int y;
-	printf("Digite o primeiro número inteiro positivo N: ");
+	printf("Digite o primeiro nÃºmero inteiro positivo N: ");
 	scanf("%d", &x);
-	printf("Digite o segundo número inteiro positivo N: ");
+	printf("Digite o segundo nÃºmero inteiro positivo N: ");
 	scanf("%d", &y);
 	return print(multiplicar(x, y));
 }
