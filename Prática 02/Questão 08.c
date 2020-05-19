@@ -15,7 +15,7 @@ main(){
 	
 	int x;
 	
-	printf("Digite um numero, se ele for par retornar· 1 e se for impar retornar· 0: ");
+	printf("Digite um numero, se ele for par retornar√° 1 e se for impar retornar√° 0: ");
 	scanf("%d", &x);
 	
 	par_impar(x);
