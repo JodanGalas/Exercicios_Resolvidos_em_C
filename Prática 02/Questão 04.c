@@ -50,16 +50,16 @@ main (){
 	result = funcT(ld1, ld2, ld3);
 	
 	if(result == 1){
-		printf("Seu triangulo È EQUIL¡TERO");
+		printf("Seu triangulo √© EQUIL√ÅTERO");
 	}
 	else if(result == 2){
-		printf("Seu triangulo È ESCALENO");
+		printf("Seu triangulo √© ESCALENO");
 	}
 	else if (result == 3){
-		printf("Seu triangulo È IS”CELES");
+		printf("Seu triangulo √© IS√ìCELES");
 	}
 	else{
-		printf("Os valores informados n„o correspondem a um triangulo");
+		printf("Os valores informados n√£o correspondem a um triangulo");
 	}
 
 
