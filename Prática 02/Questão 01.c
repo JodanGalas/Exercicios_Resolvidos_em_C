@@ -12,9 +12,9 @@ int primo(int N){
 		}
 	}
 	if (resultado == 0){
-		return printf("%d é primo", N);
+		return printf("%d e primo", N);
 	}else{
-		return printf("%d não é primo", N);
+		return printf("%d nao e primo", N);
 	}
 }
 
@@ -25,7 +25,7 @@ main(){
 	int x;
 	char resultado;
 	
-	printf("Número: ");
+	printf("Numero: ");
 	scanf("%d", &x);
 	
 	resultado = primo(x);
