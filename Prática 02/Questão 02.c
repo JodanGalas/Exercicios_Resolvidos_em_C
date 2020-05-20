@@ -25,7 +25,7 @@ main(){
 	
 	int x, y, b = 2, resultado, z;
 	
-	printf("Número: ");
+	printf("Numero: ");
 	scanf("%d", &x);
 	
 	for (y = 1 ; y <= x ; b++){

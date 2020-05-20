@@ -15,7 +15,7 @@ main(){
 	
 	int x;
 	
-	printf("Digite um numero, se ele for par retornará 1 e se for impar retornará 0: ");
+	printf("Digite um numero, se ele for par retornará 1 e se for impar retornara 0: ");
 	scanf("%d", &x);
 	
 	par_impar(x);

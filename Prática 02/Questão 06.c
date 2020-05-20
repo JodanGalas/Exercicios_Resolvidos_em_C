@@ -25,5 +25,5 @@ main(){
 	
 	acumulador = potencia(a, b, soma);
 	
-	printf("%d elevado a %d é %d", a, b, acumulador);
+	printf("%d elevado a %d: %d", a, b, acumulador);
 }

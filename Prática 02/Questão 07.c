@@ -3,7 +3,7 @@
 #include<locale.h>
 
 int print(int x){
-	return printf("O resultado da multiplicação é: %d", x);
+	return printf("O resultado da multiplicação: %d", x);
 }
 
 int multiplicar(int x, int y){

@@ -18,5 +18,5 @@ main(){
 	printf("Digite um numero: ");
 	scanf("%d", &n);
 	
-	printf("O fatorial de %d é %d", n, fatorial(n));
+	printf("O fatorial de %d: %d", n, fatorial(n));
 }
