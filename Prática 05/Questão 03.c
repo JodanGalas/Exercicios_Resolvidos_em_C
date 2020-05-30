@@ -18,7 +18,7 @@ int main(void) {
     printf("Digite algo: ");
     gets(string);
 
-    printf("'%s'%s � um pal�ndromo.\n", string, (palindromo(string) == 1) ? "" : " n�o");
+    printf("'%s'%s E um palindromo.\n", string, (palindromo(string) == 1) ? "" : " n�o");
 
     linha();
 
