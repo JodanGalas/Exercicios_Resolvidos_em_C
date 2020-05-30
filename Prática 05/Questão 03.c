@@ -4,8 +4,8 @@
 int palindromo(char string[51]) {
 
     int count = 0;
-    for (int decrescente = strlen(string), crescente = 0; decrescente != 0; decrescente --, crescente ++) {
-        if (string[crescente] != string[decrescente -1]) {
+    for (int decres = strlen(string), cres = 0; decres != 0; decres --, cres ++) {
+        if (string[cres] != string[decres -1]) {
             count ++;
         }
     }
