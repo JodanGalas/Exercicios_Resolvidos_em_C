@@ -1,5 +1,5 @@
 # Lista de questões
-1. - [ ] Criar um programa que solicita no teclado uma frase com, no máximo, 100 letras.
+1. - [X] Criar um programa que solicita no teclado uma frase com, no máximo, 100 letras.
 Se o tamanho for maior que 40, exibir uma mensagem e solicitar novamente a
 frase, senão, imprimir a frase na vertical.
 2. - [ ] Faça uma rotina que recebe um string qualquer e retorna-o invertido. Por exemplo, se a string
