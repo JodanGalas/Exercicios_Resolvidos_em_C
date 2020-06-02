@@ -6,7 +6,7 @@ frase, senão, imprimir a frase na vertical.
 passada por parâmetro fosse "teste", a rotina deve retornar "etset".
 3. - [x] Faça uma função que leia uma string de 50 posições digitada por um usuário, e retorne valor 1 se for um palíndromo ou 0 em caso negativo.
 Um palíndromo é uma palavra, frase ou qualquer outra sequência que tenha a propriedade de poder ser lida tanto da direita para a esquerda como da esquerda para a direita sem que se altere seu significado (4334 e arara são exemplos de palíndromos).
-4. - [ ] Sem usar as funções para manipulação de strings da biblioteca <string.h>,
+4. - [X] Sem usar as funções para manipulação de strings da biblioteca <string.h>,
 use a função gets() para armazenar seu nome na string nome[100] e:
    1. Informe o numero de caracteres do seu nome.
    2. Informe o numero de vogais, consoantes e espaços em branco do
