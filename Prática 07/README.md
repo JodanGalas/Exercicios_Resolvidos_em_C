@@ -25,10 +25,10 @@ int *p, *q;
 p = &i;
 q = &j;
 ```
-* Qual é o valor da variável  resultado do tipo int?
-a) resultado=p == &i;
-b) resultado= *p - *q
-c) resultado=(12 + *p)/(*q)+7;
+   2.1 Qual é o valor da variável  resultado do tipo int?
+* a) resultado=p == &i;
+* b) resultado= *p - *q
+* c) resultado=(12 + *p)/(*q)+7;
 
 4. - [ ] Qual serão as saídas do seguinte programa?
  ```
