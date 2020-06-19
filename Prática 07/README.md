@@ -1,6 +1,6 @@
 # Lista de Questões 
 1. - [ ] 1.	Explique o código abaixo:
-
+´´´
 main( ) { 
 		int  num1, num2, * p, * q;
 		num1 = 13;
@@ -15,6 +15,7 @@ main( ) {
      	 	printf ("p:%d\n",*p);
       	 	printf ("q:%d\n",*q);	
 }
+´´´
 2. - [ ] Faça um programa que solicite um número (inteiro/positivo) e imprima esse número e o seu endereço de memória (por meio de um ponteiro).
 
 3. - [ ] Seja o seguinte trecho de programa:
