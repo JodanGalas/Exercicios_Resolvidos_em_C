@@ -25,7 +25,7 @@ int *p, *q;
 p = &i;
 q = &j;
 ```
-   2.1 Qual é o valor da variável  resultado do tipo int?
+   3.1 Qual é o valor da variável  resultado do tipo int?
 * a) resultado=p == &i;
 * b) resultado= *p - *q
 * c) resultado=(12 + *p)/(*q)+7;
