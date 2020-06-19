@@ -2,10 +2,10 @@
 1. - [ ] 1.	Explique o código abaixo:
 
 main( ) { 
-		int  num1, num2, * p, * q; 
-		num1 = 13; 
-		num2 = 10; 
-		p  = &num1;    
+		int  num1, num2, * p, * q;
+		num1 = 13;
+		num2 = 10;
+		p  = &num1;
 		q = p;          
 		*q = 56;    
 		printf ("v1:%d\n",num1);
