@@ -185,6 +185,14 @@ void main(void)
   printf("x = %d, y = %d\n", x, y);  /*E*/
 }
 ```
+teste de mesa
+---
+| px | py | x| y
+A | | | | | 
+B | | | | | 
+C | | | | | 
+D | | | | | 
+E | | | | | 
 
 10. - [ ] Quais serão as saídas do seguinte programa?
 ```
