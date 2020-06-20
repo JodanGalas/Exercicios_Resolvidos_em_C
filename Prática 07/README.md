@@ -185,7 +185,7 @@ void main(void)
   printf("x = %d, y = %d\n", x, y);  /*E*/
 }
 ```
---- | teste de mesa | --- 
+### teste de mesa
 Variavel | px | py | x| y
 ---|---|---|---|---
 A | | | | | 
