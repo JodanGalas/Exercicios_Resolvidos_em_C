@@ -187,11 +187,16 @@ void main(void)
 ```
 teste de mesa
 ---
-| px | py | x| y
+O | px | py | x| y
+---|---|---|---|---
 A | | | | | 
+---|---|---|---|---
 B | | | | | 
+---|---|---|---|---
 C | | | | | 
+---|---|---|---|---
 D | | | | | 
+---|---|---|---|---
 E | | | | | 
 
 10. - [ ] Quais serão as saídas do seguinte programa?
