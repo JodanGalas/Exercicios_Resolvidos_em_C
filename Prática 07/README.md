@@ -190,13 +190,9 @@ teste de mesa
 Variavel | px | py | x| y
 ---|---|---|---|---
 A | | | | | 
-| | | | 
 B | | | | | 
-|---|---|---|---
 C | | | | | 
-|---|---|---|---
 D | | | | | 
-|---|---|---|---
 E | | | | | 
 
 10. - [ ] Quais serão as saídas do seguinte programa?
